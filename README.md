@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siisgoo&label=Profile%20views&color=0e75b6&style=flat" alt="siisgoo" /> 
-  <a href="https://wakatime.com/badge/user/9bd1f529-4664-45fb-b376-91e7f06e0a80/project/c2ede059-dea7-4bb1-902e-9219fc0ecb63"><img src="https://wakatime.com/badge/user/9bd1f529-4664-45fb-b376-91e7f06e0a80/project/c2ede059-dea7-4bb1-902e-9219fc0ecb63.svg" alt="wakatime"></a>
+  <a href="https://wakatime.com/@9bd1f529-4664-45fb-b376-91e7f06e0a80"><img src="https://wakatime.com/badge/user/9bd1f529-4664-45fb-b376-91e7f06e0a80.svg" alt="Total time coded since Oct 29 2021" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
