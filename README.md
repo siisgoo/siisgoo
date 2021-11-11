@@ -74,3 +74,7 @@
 <p align="left">
   
 </p>
+
+<p align="right">
+  Bosyack inc.
+<p/>
