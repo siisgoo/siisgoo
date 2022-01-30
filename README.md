@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siisgoo&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="siisgoo" />
+  <img src="https://github.com/siisgoo/github-stats/blob/master/generated/languages.svg"/>
 </p>
 
 <p align="left">
