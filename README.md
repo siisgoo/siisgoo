@@ -68,8 +68,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/siisgoo/github-stats/blob/master/generated/languages.svg"/>
-  <img src="https://github.com/siisgoo/github-stats/blob/master/generated/overview.svg"/>
+  <img src="https://github.com/yolona-oss/github-stats/blob/master/generated/languages.svg"/>
+  <img src="https://github.com/yolona-oss/github-stats/blob/master/generated/overview.svg"/>
 </p>
 
 <p align="left">
